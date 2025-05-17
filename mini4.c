@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <string.h>
-#include "mini4.h"  // optional: if you're using header files
+#include <stdlib.h>
+#include <string.h>
 
 #define MAX_SEATS 30
 #define MAX_NAME_LENGTH 50
